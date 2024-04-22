@@ -36,7 +36,7 @@
         <guava.version>32.1.3-jre</guava.version>
         <httprequest.version>2.2.0</httprequest.version>
         <imgscalr-lib.version>4.2</imgscalr-lib.version>
-        <jadx.version>1.4.7</jadx.version>
+        <jadx.version>1.5.0</jadx.version>
         <jd-gui.version>1.6.6bcv</jd-gui.version>
         <jgraphx.version>3.4.1.3</jgraphx.version>
         <js.version>21.2.0</js.version>
